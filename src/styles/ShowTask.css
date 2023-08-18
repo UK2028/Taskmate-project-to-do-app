@@ -1,0 +1,36 @@
+.showTask
+{
+    width: 80%;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.countTask
+{
+    background-color: beige;
+    border-radius: 50%;
+}
+
+.showTask li
+{
+    list-style: none;
+    border: 1px solid black;
+    border-left: 4px solid blue;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 2%;
+}
+
+.taskName
+{
+    font-weight: 600;
+    font-size: 140%;
+}
+
+.taskTime
+{
+    font-size: 80%;
+}
+
+

@@ -1,0 +1,8 @@
+.addTask
+{
+    width: 40%;
+    height: 30%;
+    border: 1px solid grey;
+    border-radius: 5px;
+    background-color: white;
+}
